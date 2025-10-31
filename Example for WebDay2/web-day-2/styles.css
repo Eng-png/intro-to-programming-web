@@ -1,0 +1,10 @@
+body { background-color: red; }
+body {
+  border-style: dotted;
+  border-width: thick;
+  border-color: greenyellow;
+  font-family: fantasy;
+  font-size: larger;
+  color: aqua;
+}
+}
